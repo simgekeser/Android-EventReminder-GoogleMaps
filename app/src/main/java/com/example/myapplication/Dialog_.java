@@ -54,7 +54,6 @@ public class Dialog_ extends DialogFragment implements AdapterView.OnItemSelecte
         spinner.setOnItemSelectedListener(this);
 
 
-        //-----------------------------------------------------------------
 
 //------------------------------------------------------------------------------------
         alert.setView(view);
